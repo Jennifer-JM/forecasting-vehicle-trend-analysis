@@ -1,5 +1,4 @@
 # Forecasting Vehicle Trend Analysis
-# Vehicle Type Analysis Over Time
 
 This Jupyter Notebook analyzes vehicle registration trends over time, focusing on different engine types — specifically Petrol-Electric, Petrol, and Diesel cars. Using data visualization and linear regression, the notebook uncovers growth patterns and forecasts for each category.
 
@@ -36,4 +35,3 @@ This Jupyter Notebook analyzes vehicle registration trends over time, focusing o
 ### Combined Graph Preview
 
 ![Combined Graph](Resources/no._of_vehicles_combined_graph.png)
-
